@@ -4,6 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
+      "toc_visible": true,
       "authorship_tag": "ABX9TyO/+IVG97W4KJ3tkN248GLk",
       "include_colab_link": true
     },
@@ -23,7 +24,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/wahidshaikh0787-byte/numpy-student-performance-analyzer/blob/main/%20Student%20Marks%20Analyzer\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/wahidshaikh0787-byte/first/blob/main/%20Student%20Marks%20Analyzer\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
